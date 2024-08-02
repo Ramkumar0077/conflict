@@ -1,2 +1,5 @@
 c1
+
 master-modified c1
+=======
+new c1
