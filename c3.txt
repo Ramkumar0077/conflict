@@ -1,3 +1,7 @@
 c3
 new c3
+<<<<<<< HEAD
 modified in master
+=======
+modified in second
+>>>>>>> second
